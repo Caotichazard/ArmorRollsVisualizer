@@ -1,17 +1,21 @@
 $.getJSON("./weeks/active.json", function(json) {
+    addSelector(weeks)
     print(json); // this will show the info it in firebug console
 });
 
-$.getJSON('./weeks', data => {
-    console.log(data); //["doc1.jpg", "doc2.jpg", "doc3.jpg"] 
+function addSelector(){
+     //["doc1.jpg", "doc2.jpg", "doc3.jpg"] 
     var selector = document.getElementById("file-selector");
     tmp_string = ""
-    for (var [index, name] of Object.entries(data)) {
-        tmp_string+= "<option value='"+name+"'>"+name+"</option>"
-    }
+    weeks.forEach(function(element){
+        tmp_string+= "<option value='"+element+".json'>"+element+"</option>"
+    })
+        
+    
 
     selector.innerHTML = tmp_string
-});
+}
+
 function loadSelectedFile(){
     var e = document.getElementById("file-selector");
     var value = e.options[e.selectedIndex].value;
@@ -121,3 +125,12 @@ function loadToDoc(){
 function clearDoc(){
     var frame = document.getElementById("frame").innerHTML = " ";
 }
+
+
+var weeks = [
+    "2021-02-23 - 2021-03-01",
+    "2021-03-02 - 2021-03-09",
+    "2021-03-09 - 2021-03-16",
+    "2021-03-16 - 2021-03-23",
+    "active"
+]
