@@ -41,7 +41,7 @@ function print(obj){
 
         }else{
         tmp_string = ""
-        tmp_string +=" <div class='class-grid'>"
+        tmp_string +=" <div class='class-grid "+char+" '>"
         tmp_string +=    "<span id='class-name'>"+ char+"</span>"
         tmp_string +=    "<div class='spacer'></div>"
         tmp_string +=    "<div class='spacer'></div>"
@@ -55,7 +55,7 @@ function print(obj){
 
             
             
-            tmp_string += "<div class='vendor-grid'>"
+            tmp_string += "<div class='vendor-grid "+vendor+"'>"
             tmp_string +=    "<span id='vendor-name'>"+ vendor + "</span>"
             tmp_string +=    "<div class='spacer'></div>"
             for( var [item, items] of Object.entries(items)){

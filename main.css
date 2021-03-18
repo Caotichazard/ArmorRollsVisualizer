@@ -3,6 +3,17 @@
     grid-template-columns: auto auto auto auto;
     background-color: saddlebrown;
     padding: 0.5rem;
+    grid-gap: 0.5rem;
+    border-radius: 1rem;
+}
+.titan{
+  background-color: rgb(150, 36, 36);
+}
+.hunter{
+  background-color: rgb(36, 44, 150);
+}
+.warlock{
+  background-color: rgb(252, 255, 65);
 }
 
 .vendor-grid{
@@ -10,16 +21,34 @@
     grid-template-columns: auto;
     background-color: #4f06c4;
     padding: 0.5rem;
+    grid-gap: 0.5rem;
+    border-radius: 1rem;
+}
+.zavala{
+  background-color: orange;
+}
+
+.drifter{
+  background-color: green;
+}
+
+.shaxx{
+  background-color: red;
+}
+
+.devrim{
+  background-color: rgb(6, 168, 74);
 }
 
   .item-card {
     display: inline-grid;
     grid-template-columns: auto auto auto;
-    background-color: #2b2b2b;
+    background-color: rgb(104, 103, 103);
     padding: 0.08rem;
+    border-radius: 1rem;
   }
   .card-grid-item {
-    background-color: rgba(129, 129, 129, 0.8);
+    
     padding: 0.25rem;
     
     text-align: center;
@@ -29,6 +58,7 @@
     width: 1rem;
     height: 1rem;
     background-color: rgba(255, 0, 0, 0.466);
+    border-radius: 1rem;
 }
 .bar{
     width: 12rem;
