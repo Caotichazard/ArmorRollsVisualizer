@@ -1,3 +1,7 @@
+body{
+  background-color: rgb(7, 13, 31);
+}
+
 .class-grid {
     display: inline-grid;
     grid-template-columns: auto auto auto auto;
