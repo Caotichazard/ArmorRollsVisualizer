@@ -29,25 +29,33 @@ body{
     border-radius: 1rem;
 }
 .zavala{
-  background-color: orange;
+  background-color: rgba(255, 145, 0, 0.9);
 }
 
 .drifter{
-  background-color: green;
+  background-color: hsla(108, 100%, 23%, 0.9);
 }
 
 .shaxx{
-  background-color: red;
+  background-color: rgba(204, 0, 0, 0.9);
 }
 
 .devrim{
-  background-color: rgb(6, 168, 74);
+  background-color: hsl(123, 43%, 50%, 0.9);
+}
+
+.ada-1{
+  background-color: rgba(104, 104, 104, 0.9);
+}
+
+.failsafe{
+  background-color: rgba(255, 238, 0, 0.9);
 }
 
   .item-card {
     display: inline-grid;
     grid-template-columns: auto auto auto;
-    background-color: rgb(104, 103, 103);
+    background-color: rgba(153, 152, 152, 0.8);
     padding: 0.08rem;
     border-radius: 1rem;
   }
