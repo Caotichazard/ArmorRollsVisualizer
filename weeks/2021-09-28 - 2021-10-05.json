@@ -1,0 +1,1355 @@
+{
+    "Titan": {
+        "Zavala": {
+            "26": {
+                "Intellect": 12,
+                "Resilience": 8,
+                "Discipline": 12,
+                "Recovery": 18,
+                "Mobility": 2,
+                "Strength": 2,
+                "statTotal": 54,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 10,
+                "Resilience": 17,
+                "Discipline": 6,
+                "Recovery": 9,
+                "Mobility": 2,
+                "Strength": 8,
+                "statTotal": 52,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 2,
+                "Resilience": 7,
+                "Discipline": 9,
+                "Recovery": 11,
+                "Mobility": 7,
+                "Strength": 16,
+                "statTotal": 52,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 9,
+                "Resilience": 6,
+                "Discipline": 6,
+                "Recovery": 2,
+                "Mobility": 19,
+                "Strength": 10,
+                "statTotal": 52,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Class"
+            }
+        },
+        "Drifter": {
+            "26": {
+                "Intellect": 2,
+                "Resilience": 2,
+                "Discipline": 18,
+                "Recovery": 19,
+                "Mobility": 6,
+                "Strength": 6,
+                "statTotal": 53,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 2,
+                "Resilience": 12,
+                "Discipline": 18,
+                "Recovery": 2,
+                "Mobility": 12,
+                "Strength": 6,
+                "statTotal": 52,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 6,
+                "Resilience": 6,
+                "Discipline": 8,
+                "Recovery": 13,
+                "Mobility": 9,
+                "Strength": 14,
+                "statTotal": 56,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 14,
+                "Resilience": 6,
+                "Discipline": 6,
+                "Recovery": 2,
+                "Mobility": 19,
+                "Strength": 6,
+                "statTotal": 53,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Class"
+            }
+        },
+        "Shaxx": {
+            "26": {
+                "Intellect": 7,
+                "Resilience": 8,
+                "Discipline": 6,
+                "Recovery": 6,
+                "Mobility": 16,
+                "Strength": 12,
+                "statTotal": 55,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 2,
+                "Resilience": 6,
+                "Discipline": 20,
+                "Recovery": 6,
+                "Mobility": 12,
+                "Strength": 6,
+                "statTotal": 52,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 8,
+                "Resilience": 13,
+                "Discipline": 6,
+                "Recovery": 6,
+                "Mobility": 6,
+                "Strength": 12,
+                "statTotal": 51,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 12,
+                "Resilience": 2,
+                "Discipline": 12,
+                "Recovery": 19,
+                "Mobility": 6,
+                "Strength": 2,
+                "statTotal": 53,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Class"
+            }
+        },
+        "Devrim": {
+            "26": {
+                "Intellect": 2,
+                "Resilience": 7,
+                "Discipline": 6,
+                "Recovery": 12,
+                "Mobility": 7,
+                "Strength": 18,
+                "statTotal": 52,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 2,
+                "Resilience": 18,
+                "Discipline": 15,
+                "Recovery": 6,
+                "Mobility": 2,
+                "Strength": 10,
+                "statTotal": 53,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 6,
+                "Resilience": 10,
+                "Discipline": 19,
+                "Recovery": 14,
+                "Mobility": 2,
+                "Strength": 2,
+                "statTotal": 53,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 18,
+                "Resilience": 6,
+                "Discipline": 6,
+                "Recovery": 17,
+                "Mobility": 2,
+                "Strength": 2,
+                "statTotal": 51,
+                "isNoticeable": true,
+                "affinity": "Solar",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Class"
+            }
+        },
+        "Ada": {
+            "26": {
+                "Intellect": 16,
+                "Resilience": 16,
+                "Discipline": 6,
+                "Recovery": 6,
+                "Mobility": 8,
+                "Strength": 9,
+                "statTotal": 61,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 6,
+                "Resilience": 2,
+                "Discipline": 6,
+                "Recovery": 20,
+                "Mobility": 7,
+                "Strength": 11,
+                "statTotal": 52,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 9,
+                "Resilience": 2,
+                "Discipline": 2,
+                "Recovery": 17,
+                "Mobility": 7,
+                "Strength": 16,
+                "statTotal": 53,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 6,
+                "Resilience": 20,
+                "Discipline": 7,
+                "Recovery": 2,
+                "Mobility": 7,
+                "Strength": 12,
+                "statTotal": 54,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Class"
+            }
+        },
+        "Failsafe": {
+            "26": {
+                "Intellect": 7,
+                "Resilience": 2,
+                "Discipline": 17,
+                "Recovery": 17,
+                "Mobility": 7,
+                "Strength": 2,
+                "statTotal": 52,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 2,
+                "Resilience": 6,
+                "Discipline": 12,
+                "Recovery": 10,
+                "Mobility": 6,
+                "Strength": 12,
+                "statTotal": 48,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 10,
+                "Resilience": 2,
+                "Discipline": 6,
+                "Recovery": 6,
+                "Mobility": 17,
+                "Strength": 7,
+                "statTotal": 48,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 6,
+                "Resilience": 6,
+                "Discipline": 2,
+                "Recovery": 12,
+                "Mobility": 6,
+                "Strength": 20,
+                "statTotal": 52,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Class"
+            }
+        }
+    },
+    "Hunter": {
+        "Zavala": {
+            "26": {
+                "Intellect": 12,
+                "Resilience": 6,
+                "Discipline": 12,
+                "Recovery": 2,
+                "Mobility": 21,
+                "Strength": 2,
+                "statTotal": 55,
+                "isNoticeable": true,
+                "affinity": "Solar",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 11,
+                "Resilience": 8,
+                "Discipline": 6,
+                "Recovery": 10,
+                "Mobility": 6,
+                "Strength": 6,
+                "statTotal": 47,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 7,
+                "Resilience": 9,
+                "Discipline": 12,
+                "Recovery": 2,
+                "Mobility": 16,
+                "Strength": 7,
+                "statTotal": 53,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 10,
+                "Resilience": 8,
+                "Discipline": 6,
+                "Recovery": 6,
+                "Mobility": 13,
+                "Strength": 7,
+                "statTotal": 50,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Class"
+            }
+        },
+        "Drifter": {
+            "26": {
+                "Intellect": 10,
+                "Resilience": 2,
+                "Discipline": 15,
+                "Recovery": 10,
+                "Mobility": 14,
+                "Strength": 2,
+                "statTotal": 53,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 2,
+                "Resilience": 2,
+                "Discipline": 8,
+                "Recovery": 9,
+                "Mobility": 16,
+                "Strength": 17,
+                "statTotal": 54,
+                "isNoticeable": true,
+                "affinity": "Solar",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 6,
+                "Resilience": 19,
+                "Discipline": 6,
+                "Recovery": 6,
+                "Mobility": 2,
+                "Strength": 11,
+                "statTotal": 50,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 11,
+                "Resilience": 20,
+                "Discipline": 6,
+                "Recovery": 2,
+                "Mobility": 7,
+                "Strength": 6,
+                "statTotal": 52,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Class"
+            }
+        },
+        "Shaxx": {
+            "26": {
+                "Intellect": 2,
+                "Resilience": 12,
+                "Discipline": 9,
+                "Recovery": 6,
+                "Mobility": 7,
+                "Strength": 16,
+                "statTotal": 52,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 12,
+                "Resilience": 9,
+                "Discipline": 12,
+                "Recovery": 6,
+                "Mobility": 12,
+                "Strength": 2,
+                "statTotal": 53,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 6,
+                "Resilience": 2,
+                "Discipline": 2,
+                "Recovery": 10,
+                "Mobility": 14,
+                "Strength": 20,
+                "statTotal": 54,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 2,
+                "Resilience": 12,
+                "Discipline": 2,
+                "Recovery": 8,
+                "Mobility": 6,
+                "Strength": 26,
+                "statTotal": 56,
+                "isNoticeable": true,
+                "affinity": "Solar",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Class"
+            }
+        },
+        "Devrim": {
+            "26": {
+                "Intellect": 8,
+                "Resilience": 6,
+                "Discipline": 7,
+                "Recovery": 2,
+                "Mobility": 17,
+                "Strength": 10,
+                "statTotal": 50,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 10,
+                "Resilience": 14,
+                "Discipline": 6,
+                "Recovery": 2,
+                "Mobility": 12,
+                "Strength": 6,
+                "statTotal": 50,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 8,
+                "Resilience": 2,
+                "Discipline": 12,
+                "Recovery": 9,
+                "Mobility": 16,
+                "Strength": 6,
+                "statTotal": 53,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 7,
+                "Resilience": 6,
+                "Discipline": 17,
+                "Recovery": 7,
+                "Mobility": 11,
+                "Strength": 2,
+                "statTotal": 50,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Class"
+            }
+        },
+        "Ada": {
+            "26": {
+                "Intellect": 11,
+                "Resilience": 2,
+                "Discipline": 12,
+                "Recovery": 19,
+                "Mobility": 6,
+                "Strength": 2,
+                "statTotal": 52,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 7,
+                "Resilience": 12,
+                "Discipline": 6,
+                "Recovery": 6,
+                "Mobility": 7,
+                "Strength": 12,
+                "statTotal": 50,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 12,
+                "Resilience": 17,
+                "Discipline": 12,
+                "Recovery": 9,
+                "Mobility": 2,
+                "Strength": 2,
+                "statTotal": 54,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 13,
+                "Resilience": 18,
+                "Discipline": 7,
+                "Recovery": 2,
+                "Mobility": 6,
+                "Strength": 6,
+                "statTotal": 52,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Class"
+            }
+        },
+        "Failsafe": {
+            "26": {
+                "Intellect": 12,
+                "Resilience": 7,
+                "Discipline": 12,
+                "Recovery": 12,
+                "Mobility": 7,
+                "Strength": 2,
+                "statTotal": 52,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 2,
+                "Resilience": 6,
+                "Discipline": 12,
+                "Recovery": 10,
+                "Mobility": 6,
+                "Strength": 12,
+                "statTotal": 48,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 12,
+                "Resilience": 7,
+                "Discipline": 12,
+                "Recovery": 12,
+                "Mobility": 7,
+                "Strength": 2,
+                "statTotal": 52,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 17,
+                "Resilience": 2,
+                "Discipline": 6,
+                "Recovery": 17,
+                "Mobility": 7,
+                "Strength": 2,
+                "statTotal": 51,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Class"
+            }
+        }
+    },
+    "Warlock": {
+        "Zavala": {
+            "26": {
+                "Intellect": 19,
+                "Resilience": 2,
+                "Discipline": 2,
+                "Recovery": 12,
+                "Mobility": 13,
+                "Strength": 6,
+                "statTotal": 54,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 15,
+                "Resilience": 11,
+                "Discipline": 6,
+                "Recovery": 9,
+                "Mobility": 6,
+                "Strength": 6,
+                "statTotal": 53,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 2,
+                "Resilience": 12,
+                "Discipline": 6,
+                "Recovery": 6,
+                "Mobility": 9,
+                "Strength": 16,
+                "statTotal": 51,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 10,
+                "Resilience": 2,
+                "Discipline": 16,
+                "Recovery": 6,
+                "Mobility": 17,
+                "Strength": 2,
+                "statTotal": 53,
+                "isNoticeable": true,
+                "affinity": "Solar",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Class"
+            }
+        },
+        "Drifter": {
+            "26": {
+                "Intellect": 7,
+                "Resilience": 10,
+                "Discipline": 12,
+                "Recovery": 2,
+                "Mobility": 12,
+                "Strength": 7,
+                "statTotal": 50,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 6,
+                "Resilience": 14,
+                "Discipline": 15,
+                "Recovery": 12,
+                "Mobility": 2,
+                "Strength": 6,
+                "statTotal": 55,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 25,
+                "Resilience": 6,
+                "Discipline": 2,
+                "Recovery": 17,
+                "Mobility": 2,
+                "Strength": 2,
+                "statTotal": 54,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 2,
+                "Resilience": 6,
+                "Discipline": 11,
+                "Recovery": 17,
+                "Mobility": 2,
+                "Strength": 12,
+                "statTotal": 50,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Class"
+            }
+        },
+        "Shaxx": {
+            "26": {
+                "Intellect": 7,
+                "Resilience": 18,
+                "Discipline": 6,
+                "Recovery": 6,
+                "Mobility": 2,
+                "Strength": 12,
+                "statTotal": 51,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 2,
+                "Resilience": 6,
+                "Discipline": 12,
+                "Recovery": 19,
+                "Mobility": 2,
+                "Strength": 15,
+                "statTotal": 56,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 8,
+                "Resilience": 10,
+                "Discipline": 12,
+                "Recovery": 2,
+                "Mobility": 12,
+                "Strength": 6,
+                "statTotal": 50,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 9,
+                "Resilience": 7,
+                "Discipline": 15,
+                "Recovery": 7,
+                "Mobility": 12,
+                "Strength": 6,
+                "statTotal": 56,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Class"
+            }
+        },
+        "Devrim": {
+            "26": {
+                "Intellect": 6,
+                "Resilience": 19,
+                "Discipline": 13,
+                "Recovery": 6,
+                "Mobility": 2,
+                "Strength": 6,
+                "statTotal": 52,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 12,
+                "Resilience": 11,
+                "Discipline": 6,
+                "Recovery": 11,
+                "Mobility": 2,
+                "Strength": 7,
+                "statTotal": 49,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 7,
+                "Resilience": 17,
+                "Discipline": 13,
+                "Recovery": 7,
+                "Mobility": 2,
+                "Strength": 7,
+                "statTotal": 53,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 2,
+                "Resilience": 10,
+                "Discipline": 24,
+                "Recovery": 14,
+                "Mobility": 2,
+                "Strength": 2,
+                "statTotal": 54,
+                "isNoticeable": true,
+                "affinity": "Solar",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Solar",
+                "slot": "Class"
+            }
+        },
+        "Ada": {
+            "26": {
+                "Intellect": 2,
+                "Resilience": 2,
+                "Discipline": 15,
+                "Recovery": 19,
+                "Mobility": 6,
+                "Strength": 12,
+                "statTotal": 56,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 11,
+                "Resilience": 6,
+                "Discipline": 7,
+                "Recovery": 17,
+                "Mobility": 2,
+                "Strength": 6,
+                "statTotal": 49,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 2,
+                "Resilience": 12,
+                "Discipline": 6,
+                "Recovery": 8,
+                "Mobility": 6,
+                "Strength": 17,
+                "statTotal": 51,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 8,
+                "Resilience": 2,
+                "Discipline": 6,
+                "Recovery": 8,
+                "Mobility": 18,
+                "Strength": 12,
+                "statTotal": 54,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Class"
+            }
+        },
+        "Failsafe": {
+            "26": {
+                "Intellect": 10,
+                "Resilience": 8,
+                "Discipline": 8,
+                "Recovery": 18,
+                "Mobility": 2,
+                "Strength": 8,
+                "statTotal": 54,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 2,
+                "Resilience": 6,
+                "Discipline": 12,
+                "Recovery": 10,
+                "Mobility": 6,
+                "Strength": 12,
+                "statTotal": 48,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 26,
+                "Resilience": 2,
+                "Discipline": 2,
+                "Recovery": 20,
+                "Mobility": 7,
+                "Strength": 2,
+                "statTotal": 59,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 2,
+                "Resilience": 18,
+                "Discipline": 7,
+                "Recovery": 6,
+                "Mobility": 2,
+                "Strength": 20,
+                "statTotal": 55,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Class"
+            }
+        }
+    },
+    "Xur": {
+        "Exotics": {
+            "0": {
+                "Intellect": 9,
+                "Resilience": 14,
+                "Discipline": 8,
+                "Recovery": 8,
+                "Mobility": 10,
+                "Strength": 13,
+                "statTotal": 62,
+                "isNoticeable": true,
+                "affinity": "Solar",
+                "slot": "Crest of Alpha Lupi"
+            },
+            "1": {
+                "Intellect": 17,
+                "Resilience": 9,
+                "Discipline": 2,
+                "Recovery": 9,
+                "Mobility": 13,
+                "Strength": 12,
+                "statTotal": 62,
+                "isNoticeable": true,
+                "affinity": "Solar",
+                "slot": "Shards of Galanor"
+            },
+            "2": {
+                "Intellect": 14,
+                "Resilience": 16,
+                "Discipline": 12,
+                "Recovery": 3,
+                "Mobility": 13,
+                "Strength": 7,
+                "statTotal": 65,
+                "isNoticeable": true,
+                "affinity": "Solar",
+                "slot": "Sunbracers"
+            }
+        },
+        "Titan": {
+            "26": {
+                "Intellect": 16,
+                "Resilience": 12,
+                "Discipline": 2,
+                "Recovery": 6,
+                "Mobility": 12,
+                "Strength": 16,
+                "statTotal": 64,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 12,
+                "Resilience": 25,
+                "Discipline": 6,
+                "Recovery": 2,
+                "Mobility": 6,
+                "Strength": 12,
+                "statTotal": 63,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 2,
+                "Resilience": 7,
+                "Discipline": 27,
+                "Recovery": 2,
+                "Mobility": 22,
+                "Strength": 2,
+                "statTotal": 62,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 15,
+                "Resilience": 2,
+                "Discipline": 15,
+                "Recovery": 14,
+                "Mobility": 15,
+                "Strength": 2,
+                "statTotal": 63,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Class"
+            }
+        },
+        "Hunter": {
+            "26": {
+                "Intellect": 9,
+                "Resilience": 12,
+                "Discipline": 20,
+                "Recovery": 6,
+                "Mobility": 10,
+                "Strength": 2,
+                "statTotal": 59,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 18,
+                "Resilience": 2,
+                "Discipline": 13,
+                "Recovery": 18,
+                "Mobility": 9,
+                "Strength": 2,
+                "statTotal": 62,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 2,
+                "Resilience": 15,
+                "Discipline": 6,
+                "Recovery": 7,
+                "Mobility": 10,
+                "Strength": 22,
+                "statTotal": 62,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 6,
+                "Resilience": 7,
+                "Discipline": 9,
+                "Recovery": 7,
+                "Mobility": 17,
+                "Strength": 13,
+                "statTotal": 59,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Class"
+            }
+        },
+        "Warlock": {
+            "26": {
+                "Intellect": 14,
+                "Resilience": 12,
+                "Discipline": 12,
+                "Recovery": 18,
+                "Mobility": 2,
+                "Strength": 6,
+                "statTotal": 64,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Helmet"
+            },
+            "27": {
+                "Intellect": 8,
+                "Resilience": 2,
+                "Discipline": 12,
+                "Recovery": 12,
+                "Mobility": 15,
+                "Strength": 13,
+                "statTotal": 62,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Arms"
+            },
+            "28": {
+                "Intellect": 26,
+                "Resilience": 15,
+                "Discipline": 2,
+                "Recovery": 16,
+                "Mobility": 2,
+                "Strength": 2,
+                "statTotal": 63,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Chest"
+            },
+            "29": {
+                "Intellect": 14,
+                "Resilience": 8,
+                "Discipline": 12,
+                "Recovery": 6,
+                "Mobility": 16,
+                "Strength": 6,
+                "statTotal": 62,
+                "isNoticeable": true,
+                "affinity": "Arc",
+                "slot": "Legs"
+            },
+            "30": {
+                "Intellect": 0,
+                "Resilience": 0,
+                "Discipline": 0,
+                "Recovery": 0,
+                "Mobility": 0,
+                "Strength": 0,
+                "statTotal": 0,
+                "isNoticeable": false,
+                "affinity": "Arc",
+                "slot": "Class"
+            }
+        }
+    },
+    "Meta": {
+        "Titan": 6,
+        "Hunter": 4,
+        "Warlock": 8
+    }
+}
